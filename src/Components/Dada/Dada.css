@@ -1,0 +1,9 @@
+.dada div, .dada{
+  border: 2px solid skyblue;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+}
+.flex{
+  display: flex;
+}
